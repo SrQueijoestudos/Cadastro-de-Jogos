@@ -1,4 +1,5 @@
 programa {
+  inclua biblioteca Texto --> t 
   funcao inicio() {
     inteiro opcao, espaco_disponivel_cadastro=10, i, quantia_jogos
     cadeia jogos[10], tipo_jogo[10], pesquisa, opcao_avaliacao 
