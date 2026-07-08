@@ -1,4 +1,4 @@
-# 🎮 Cadastro de Jogos
+# 🎮 ArcadiaX
 
 Um sistema simples de **cadastro de jogos** desenvolvido em **Portugol**, com foco em praticar vetores, estruturas condicionais, menus e interação com o usuário.
 
