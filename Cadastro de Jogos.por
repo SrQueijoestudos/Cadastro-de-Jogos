@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    inteiro opcao, espaco_disponivel_cadastro, espaco_ocupado_cadastro, i
+    inteiro opcao, espaco_disponivel_cadastro, espaco_ocupado_cadastro, i, quantia_jogos
     cadeia jogos[10], tipo_jogo[10], pesquisa, opcao_avaliacao 
     logico sair = falso
     real avaliacao_jogo[10]
